@@ -1,0 +1,7 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\arithmeticOperationExercise\arithmeticOperationExercise\bin\Debug\arithmeticOperationExercise.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\arithmeticOperationExercise\arithmeticOperationExercise\bin\Debug\arithmeticOperationExercise.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\arithmeticOperationExercise\arithmeticOperationExercise\bin\Debug\arithmeticOperationExercise.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\arithmeticOperationExercise\arithmeticOperationExercise\obj\Debug\arithmeticOperationExercise.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\arithmeticOperationExercise\arithmeticOperationExercise\obj\Debug\arithmeticOperationExercise.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\arithmeticOperationExercise\arithmeticOperationExercise\obj\Debug\arithmeticOperationExercise.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\arithmeticOperationExercise\arithmeticOperationExercise\obj\Debug\arithmeticOperationExercise.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\staticMethod\staticMethod\bin\Debug\staticMethod.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\staticMethod\staticMethod\bin\Debug\staticMethod.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\staticMethod\staticMethod\bin\Debug\staticMethod.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\staticMethod\staticMethod\obj\Debug\staticMethod.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\staticMethod\staticMethod\obj\Debug\staticMethod.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\staticMethod\staticMethod\obj\Debug\staticMethod.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\staticMethod\staticMethod\obj\Debug\staticMethod.pdb

@@ -1,0 +1,7 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\methods3(valuevsreference)\methods3(valuevsreference)\bin\Debug\methods3(valuevsreference).exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\methods3(valuevsreference)\methods3(valuevsreference)\bin\Debug\methods3(valuevsreference).exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\methods3(valuevsreference)\methods3(valuevsreference)\bin\Debug\methods3(valuevsreference).pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\methods3(valuevsreference)\methods3(valuevsreference)\obj\Debug\methods3(valuevsreference).csprojAssemblyReference.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\methods3(valuevsreference)\methods3(valuevsreference)\obj\Debug\methods3(valuevsreference).csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\methods3(valuevsreference)\methods3(valuevsreference)\obj\Debug\methods3(valuevsreference).exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\methods3(valuevsreference)\methods3(valuevsreference)\obj\Debug\methods3(valuevsreference).pdb

@@ -1,0 +1,7 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\assignmentTimeMachine\assignmentTimeMachine\bin\Debug\assignmentTimeMachine.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\assignmentTimeMachine\assignmentTimeMachine\bin\Debug\assignmentTimeMachine.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\assignmentTimeMachine\assignmentTimeMachine\bin\Debug\assignmentTimeMachine.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\assignmentTimeMachine\assignmentTimeMachine\obj\Debug\assignmentTimeMachine.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\assignmentTimeMachine\assignmentTimeMachine\obj\Debug\assignmentTimeMachine.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\assignmentTimeMachine\assignmentTimeMachine\obj\Debug\assignmentTimeMachine.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\assignmentTimeMachine\assignmentTimeMachine\obj\Debug\assignmentTimeMachine.pdb

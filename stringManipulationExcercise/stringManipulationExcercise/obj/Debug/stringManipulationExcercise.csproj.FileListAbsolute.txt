@@ -1,0 +1,6 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\stringManipulationExcercise\stringManipulationExcercise\bin\Debug\stringManipulationExcercise.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\stringManipulationExcercise\stringManipulationExcercise\bin\Debug\stringManipulationExcercise.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\stringManipulationExcercise\stringManipulationExcercise\bin\Debug\stringManipulationExcercise.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\stringManipulationExcercise\stringManipulationExcercise\obj\Debug\stringManipulationExcercise.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\stringManipulationExcercise\stringManipulationExcercise\obj\Debug\stringManipulationExcercise.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\stringManipulationExcercise\stringManipulationExcercise\obj\Debug\stringManipulationExcercise.pdb

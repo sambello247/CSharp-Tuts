@@ -1,0 +1,7 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\nestedLoops\nestedLoops\bin\Debug\nestedLoops.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\nestedLoops\nestedLoops\bin\Debug\nestedLoops.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\nestedLoops\nestedLoops\bin\Debug\nestedLoops.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\nestedLoops\nestedLoops\obj\Debug\nestedLoops.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\nestedLoops\nestedLoops\obj\Debug\nestedLoops.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\nestedLoops\nestedLoops\obj\Debug\nestedLoops.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\nestedLoops\nestedLoops\obj\Debug\nestedLoops.pdb

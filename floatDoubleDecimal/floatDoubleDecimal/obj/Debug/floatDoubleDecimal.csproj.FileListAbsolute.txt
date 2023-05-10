@@ -1,0 +1,7 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\floatDoubleDecimal\floatDoubleDecimal\bin\Debug\floatDoubleDecimal.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\floatDoubleDecimal\floatDoubleDecimal\bin\Debug\floatDoubleDecimal.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\floatDoubleDecimal\floatDoubleDecimal\bin\Debug\floatDoubleDecimal.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\floatDoubleDecimal\floatDoubleDecimal\obj\Debug\floatDoubleDecimal.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\floatDoubleDecimal\floatDoubleDecimal\obj\Debug\floatDoubleDecimal.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\floatDoubleDecimal\floatDoubleDecimal\obj\Debug\floatDoubleDecimal.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\floatDoubleDecimal\floatDoubleDecimal\obj\Debug\floatDoubleDecimal.pdb

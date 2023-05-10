@@ -1,0 +1,6 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\Constant\Constant\bin\Debug\Constant.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\Constant\Constant\bin\Debug\Constant.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\Constant\Constant\bin\Debug\Constant.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\Constant\Constant\obj\Debug\Constant.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\Constant\Constant\obj\Debug\Constant.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\Constant\Constant\obj\Debug\Constant.pdb

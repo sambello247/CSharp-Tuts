@@ -1,0 +1,7 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\errorTypes\errorTypes\bin\Debug\errorTypes.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\errorTypes\errorTypes\bin\Debug\errorTypes.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\errorTypes\errorTypes\bin\Debug\errorTypes.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\errorTypes\errorTypes\obj\Debug\errorTypes.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\errorTypes\errorTypes\obj\Debug\errorTypes.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\errorTypes\errorTypes\obj\Debug\errorTypes.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\errorTypes\errorTypes\obj\Debug\errorTypes.pdb

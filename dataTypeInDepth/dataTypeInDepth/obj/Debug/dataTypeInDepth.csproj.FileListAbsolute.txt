@@ -1,0 +1,6 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\dataTypeInDepth\dataTypeInDepth\bin\Debug\dataTypeInDepth.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\dataTypeInDepth\dataTypeInDepth\bin\Debug\dataTypeInDepth.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\dataTypeInDepth\dataTypeInDepth\bin\Debug\dataTypeInDepth.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\dataTypeInDepth\dataTypeInDepth\obj\Debug\dataTypeInDepth.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\dataTypeInDepth\dataTypeInDepth\obj\Debug\dataTypeInDepth.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\dataTypeInDepth\dataTypeInDepth\obj\Debug\dataTypeInDepth.pdb

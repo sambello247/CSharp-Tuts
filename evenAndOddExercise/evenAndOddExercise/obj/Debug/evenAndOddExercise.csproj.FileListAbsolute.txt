@@ -1,0 +1,6 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\evenAndOddExercise\evenAndOddExercise\bin\Debug\evenAndOddExercise.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\evenAndOddExercise\evenAndOddExercise\bin\Debug\evenAndOddExercise.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\evenAndOddExercise\evenAndOddExercise\bin\Debug\evenAndOddExercise.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\evenAndOddExercise\evenAndOddExercise\obj\Debug\evenAndOddExercise.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\evenAndOddExercise\evenAndOddExercise\obj\Debug\evenAndOddExercise.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\evenAndOddExercise\evenAndOddExercise\obj\Debug\evenAndOddExercise.pdb

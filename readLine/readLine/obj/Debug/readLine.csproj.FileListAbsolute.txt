@@ -1,0 +1,7 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\readLine\readLine\bin\Debug\readLine.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\readLine\readLine\bin\Debug\readLine.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\readLine\readLine\bin\Debug\readLine.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\readLine\readLine\obj\Debug\readLine.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\readLine\readLine\obj\Debug\readLine.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\readLine\readLine\obj\Debug\readLine.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\readLine\readLine\obj\Debug\readLine.pdb

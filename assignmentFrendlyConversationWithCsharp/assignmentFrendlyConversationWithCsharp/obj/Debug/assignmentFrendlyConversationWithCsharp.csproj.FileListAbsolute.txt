@@ -1,0 +1,7 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\assignmentFrendlyConversationWithCsharp\assignmentFrendlyConversationWithCsharp\obj\Debug\assignmentFrendlyConversationWithCsharp.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\assignmentFrendlyConversationWithCsharp\assignmentFrendlyConversationWithCsharp\obj\Debug\assignmentFrendlyConversationWithCsharp.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\assignmentFrendlyConversationWithCsharp\assignmentFrendlyConversationWithCsharp\bin\Debug\assignmentFrendlyConversationWithCsharp.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\assignmentFrendlyConversationWithCsharp\assignmentFrendlyConversationWithCsharp\bin\Debug\assignmentFrendlyConversationWithCsharp.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\assignmentFrendlyConversationWithCsharp\assignmentFrendlyConversationWithCsharp\bin\Debug\assignmentFrendlyConversationWithCsharp.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\assignmentFrendlyConversationWithCsharp\assignmentFrendlyConversationWithCsharp\obj\Debug\assignmentFrendlyConversationWithCsharp.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\assignmentFrendlyConversationWithCsharp\assignmentFrendlyConversationWithCsharp\obj\Debug\assignmentFrendlyConversationWithCsharp.pdb

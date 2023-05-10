@@ -1,0 +1,7 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\variables\variables\bin\Debug\variables.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\variables\variables\bin\Debug\variables.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\variables\variables\bin\Debug\variables.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\variables\variables\obj\Debug\variables.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\variables\variables\obj\Debug\variables.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\variables\variables\obj\Debug\variables.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\variables\variables\obj\Debug\variables.pdb

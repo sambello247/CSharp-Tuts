@@ -1,0 +1,7 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\escapeSequence\escapeSequence\bin\Debug\escapeSequence.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\escapeSequence\escapeSequence\bin\Debug\escapeSequence.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\escapeSequence\escapeSequence\bin\Debug\escapeSequence.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\escapeSequence\escapeSequence\obj\Debug\escapeSequence.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\escapeSequence\escapeSequence\obj\Debug\escapeSequence.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\escapeSequence\escapeSequence\obj\Debug\escapeSequence.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\escapeSequence\escapeSequence\obj\Debug\escapeSequence.pdb

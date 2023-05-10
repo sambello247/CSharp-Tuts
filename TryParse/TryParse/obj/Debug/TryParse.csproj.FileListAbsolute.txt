@@ -1,0 +1,7 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\TryParse\TryParse\bin\Debug\TryParse.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\TryParse\TryParse\bin\Debug\TryParse.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\TryParse\TryParse\bin\Debug\TryParse.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\TryParse\TryParse\obj\Debug\TryParse.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\TryParse\TryParse\obj\Debug\TryParse.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\TryParse\TryParse\obj\Debug\TryParse.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\TryParse\TryParse\obj\Debug\TryParse.pdb

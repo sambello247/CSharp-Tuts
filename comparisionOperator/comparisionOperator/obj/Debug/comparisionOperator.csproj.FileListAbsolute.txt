@@ -1,0 +1,6 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\comparisionOperator\comparisionOperator\bin\Debug\comparisionOperator.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\comparisionOperator\comparisionOperator\bin\Debug\comparisionOperator.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\comparisionOperator\comparisionOperator\bin\Debug\comparisionOperator.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\comparisionOperator\comparisionOperator\obj\Debug\comparisionOperator.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\comparisionOperator\comparisionOperator\obj\Debug\comparisionOperator.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\comparisionOperator\comparisionOperator\obj\Debug\comparisionOperator.pdb

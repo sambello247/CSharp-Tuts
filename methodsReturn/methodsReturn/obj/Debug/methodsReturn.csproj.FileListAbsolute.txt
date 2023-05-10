@@ -1,0 +1,7 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\methodsReturn\methodsReturn\bin\Debug\methodsReturn.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\methodsReturn\methodsReturn\bin\Debug\methodsReturn.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\methodsReturn\methodsReturn\bin\Debug\methodsReturn.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\methodsReturn\methodsReturn\obj\Debug\methodsReturn.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\methodsReturn\methodsReturn\obj\Debug\methodsReturn.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\methodsReturn\methodsReturn\obj\Debug\methodsReturn.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\methodsReturn\methodsReturn\obj\Debug\methodsReturn.pdb

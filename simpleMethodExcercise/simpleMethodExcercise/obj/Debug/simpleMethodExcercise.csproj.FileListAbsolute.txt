@@ -1,0 +1,6 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\simpleMethodExcercise\simpleMethodExcercise\bin\Debug\simpleMethodExcercise.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\simpleMethodExcercise\simpleMethodExcercise\bin\Debug\simpleMethodExcercise.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\simpleMethodExcercise\simpleMethodExcercise\bin\Debug\simpleMethodExcercise.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\simpleMethodExcercise\simpleMethodExcercise\obj\Debug\simpleMethodExcercise.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\simpleMethodExcercise\simpleMethodExcercise\obj\Debug\simpleMethodExcercise.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\simpleMethodExcercise\simpleMethodExcercise\obj\Debug\simpleMethodExcercise.pdb

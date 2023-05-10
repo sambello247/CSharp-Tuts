@@ -1,0 +1,6 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\conditionalStatementIf\conditionalStatementIf\bin\Debug\conditionalStatementIf.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\conditionalStatementIf\conditionalStatementIf\bin\Debug\conditionalStatementIf.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\conditionalStatementIf\conditionalStatementIf\bin\Debug\conditionalStatementIf.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\conditionalStatementIf\conditionalStatementIf\obj\Debug\conditionalStatementIf.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\conditionalStatementIf\conditionalStatementIf\obj\Debug\conditionalStatementIf.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\conditionalStatementIf\conditionalStatementIf\obj\Debug\conditionalStatementIf.pdb

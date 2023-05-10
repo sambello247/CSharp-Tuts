@@ -1,0 +1,7 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\assignmentWeekdaysAndColors\assignmentWeekdaysAndColors\bin\Debug\assignmentWeekdaysAndColors.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\assignmentWeekdaysAndColors\assignmentWeekdaysAndColors\bin\Debug\assignmentWeekdaysAndColors.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\assignmentWeekdaysAndColors\assignmentWeekdaysAndColors\bin\Debug\assignmentWeekdaysAndColors.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\assignmentWeekdaysAndColors\assignmentWeekdaysAndColors\obj\Debug\assignmentWeekdaysAndColors.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\assignmentWeekdaysAndColors\assignmentWeekdaysAndColors\obj\Debug\assignmentWeekdaysAndColors.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\assignmentWeekdaysAndColors\assignmentWeekdaysAndColors\obj\Debug\assignmentWeekdaysAndColors.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\assignmentWeekdaysAndColors\assignmentWeekdaysAndColors\obj\Debug\assignmentWeekdaysAndColors.pdb

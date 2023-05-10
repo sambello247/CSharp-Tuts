@@ -1,0 +1,7 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\stringInterpolation\stringInterpolation\bin\Debug\stringInterpolation.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\stringInterpolation\stringInterpolation\bin\Debug\stringInterpolation.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\stringInterpolation\stringInterpolation\bin\Debug\stringInterpolation.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\stringInterpolation\stringInterpolation\obj\Debug\stringInterpolation.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\stringInterpolation\stringInterpolation\obj\Debug\stringInterpolation.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\stringInterpolation\stringInterpolation\obj\Debug\stringInterpolation.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\stringInterpolation\stringInterpolation\obj\Debug\stringInterpolation.pdb

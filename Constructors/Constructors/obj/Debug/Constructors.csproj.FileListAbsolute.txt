@@ -1,0 +1,7 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\Constructors\Constructors\bin\Debug\Constructors.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\Constructors\Constructors\bin\Debug\Constructors.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\Constructors\Constructors\bin\Debug\Constructors.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\Constructors\Constructors\obj\Debug\Constructors.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\Constructors\Constructors\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\Constructors\Constructors\obj\Debug\Constructors.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\Constructors\Constructors\obj\Debug\Constructors.pdb

@@ -1,0 +1,6 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\stringManipulation2\stringManipulation2\bin\Debug\stringManipulation2.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\stringManipulation2\stringManipulation2\bin\Debug\stringManipulation2.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\stringManipulation2\stringManipulation2\bin\Debug\stringManipulation2.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\stringManipulation2\stringManipulation2\obj\Debug\stringManipulation2.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\stringManipulation2\stringManipulation2\obj\Debug\stringManipulation2.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\stringManipulation2\stringManipulation2\obj\Debug\stringManipulation2.pdb

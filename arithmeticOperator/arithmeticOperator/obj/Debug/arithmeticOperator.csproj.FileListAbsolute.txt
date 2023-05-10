@@ -1,0 +1,7 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\arithmeticOperator\arithmeticOperator\bin\Debug\arithmeticOperator.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\arithmeticOperator\arithmeticOperator\bin\Debug\arithmeticOperator.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\arithmeticOperator\arithmeticOperator\bin\Debug\arithmeticOperator.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\arithmeticOperator\arithmeticOperator\obj\Debug\arithmeticOperator.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\arithmeticOperator\arithmeticOperator\obj\Debug\arithmeticOperator.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\arithmeticOperator\arithmeticOperator\obj\Debug\arithmeticOperator.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\arithmeticOperator\arithmeticOperator\obj\Debug\arithmeticOperator.pdb

@@ -1,0 +1,7 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\dateTimeExercise\dateTimeExercise\bin\Debug\dateTimeExercise.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\dateTimeExercise\dateTimeExercise\bin\Debug\dateTimeExercise.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\dateTimeExercise\dateTimeExercise\bin\Debug\dateTimeExercise.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\dateTimeExercise\dateTimeExercise\obj\Debug\dateTimeExercise.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\dateTimeExercise\dateTimeExercise\obj\Debug\dateTimeExercise.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\dateTimeExercise\dateTimeExercise\obj\Debug\dateTimeExercise.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\dateTimeExercise\dateTimeExercise\obj\Debug\dateTimeExercise.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\conditionalStatementSwitch\conditionalStatementSwitch\bin\Debug\conditionalStatementSwitch.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\conditionalStatementSwitch\conditionalStatementSwitch\bin\Debug\conditionalStatementSwitch.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\conditionalStatementSwitch\conditionalStatementSwitch\bin\Debug\conditionalStatementSwitch.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\conditionalStatementSwitch\conditionalStatementSwitch\obj\Debug\conditionalStatementSwitch.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\conditionalStatementSwitch\conditionalStatementSwitch\obj\Debug\conditionalStatementSwitch.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\conditionalStatementSwitch\conditionalStatementSwitch\obj\Debug\conditionalStatementSwitch.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\conditionalStatementSwitch\conditionalStatementSwitch\obj\Debug\conditionalStatementSwitch.pdb

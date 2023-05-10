@@ -1,0 +1,7 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\moreLogicalOperator\moreLogicalOperator\bin\Debug\moreLogicalOperator.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\moreLogicalOperator\moreLogicalOperator\bin\Debug\moreLogicalOperator.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\moreLogicalOperator\moreLogicalOperator\bin\Debug\moreLogicalOperator.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\moreLogicalOperator\moreLogicalOperator\obj\Debug\moreLogicalOperator.csprojAssemblyReference.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\moreLogicalOperator\moreLogicalOperator\obj\Debug\moreLogicalOperator.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\moreLogicalOperator\moreLogicalOperator\obj\Debug\moreLogicalOperator.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\moreLogicalOperator\moreLogicalOperator\obj\Debug\moreLogicalOperator.pdb

@@ -1,0 +1,7 @@
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\precedenceOfOperators\precedenceOfOperators\bin\Debug\precedenceOfOperators.exe.config
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\precedenceOfOperators\precedenceOfOperators\bin\Debug\precedenceOfOperators.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\precedenceOfOperators\precedenceOfOperators\bin\Debug\precedenceOfOperators.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\precedenceOfOperators\precedenceOfOperators\obj\Debug\precedenceOfOperators.csproj.CoreCompileInputs.cache
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\precedenceOfOperators\precedenceOfOperators\obj\Debug\precedenceOfOperators.exe
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\precedenceOfOperators\precedenceOfOperators\obj\Debug\precedenceOfOperators.pdb
+C:\Users\TEST\Documents\Visual Studio 2019\Projects\C# Tuts\precedenceOfOperators\precedenceOfOperators\obj\Debug\precedenceOfOperators.csprojAssemblyReference.cache
